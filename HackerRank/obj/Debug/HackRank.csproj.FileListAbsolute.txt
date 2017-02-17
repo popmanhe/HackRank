@@ -1,0 +1,9 @@
+C:\Users\nhe\Documents\Visual Studio 2015\Projects\ConsoleApplication1\HackRank\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\nhe\Documents\Visual Studio 2015\Projects\ConsoleApplication1\HackRank\obj\Debug\ConsoleApplication1.exe
+C:\Users\nhe\Documents\Visual Studio 2015\Projects\ConsoleApplication1\HackRank\obj\Debug\ConsoleApplication1.pdb
+C:\Users\nhe\Documents\Visual Studio 2015\Projects\HackRank\HackRank\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\nhe\Documents\Visual Studio 2015\Projects\HackRank\HackRank\obj\Debug\ConsoleApplication1.exe
+C:\Users\nhe\Documents\Visual Studio 2015\Projects\HackRank\HackRank\obj\Debug\ConsoleApplication1.pdb
+C:\Users\nhe\Documents\Visual Studio 2015\Projects\HackRank\HackRank\bin\Debug\ConsoleApplication1.exe
+C:\Users\nhe\Documents\Visual Studio 2015\Projects\HackRank\HackRank\bin\Debug\ConsoleApplication1.pdb
+C:\Users\nhe\Documents\Visual Studio 2015\Projects\HackRank\HackRank\obj\Debug\HackRank.csprojResolveAssemblyReference.cache
