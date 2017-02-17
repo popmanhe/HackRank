@@ -46,6 +46,7 @@
     <Compile Include="JourneyToTheMoon\JourneyToTheMoon.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SynchronousShopping\SynchronousShopping.cs" />
     <Compile Include="Util.cs" />
   </ItemGroup>
   <ItemGroup>
