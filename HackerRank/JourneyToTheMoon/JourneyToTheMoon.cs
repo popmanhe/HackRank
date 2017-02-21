@@ -95,7 +95,7 @@ namespace HackerRank
             {
                 int total = 0;
                 countries.ForEach(c => total += c);
-                //arithmetic progression
+                //arithmetic progression (1+n)*n/2
                 result += (Int64)(total + total + all.Count - 1) * all.Count / 2;
             }
             Console.WriteLine(result);
